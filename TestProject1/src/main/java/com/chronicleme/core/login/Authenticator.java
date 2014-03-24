@@ -1,5 +1,9 @@
-package main.java.com.chronicleme.core.login;
+package com.chronicleme.core.login;
 
 public class Authenticator {
+	
+	public void testUser(){
+		
+	}
 
 }

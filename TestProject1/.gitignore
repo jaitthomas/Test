@@ -1,1 +1,8 @@
 /build
+/dist
+.gradle
+.settings
+.project
+.classpath
+
+
